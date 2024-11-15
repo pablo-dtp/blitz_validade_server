@@ -21,3 +21,7 @@ __pycache__/
 
 # Arquivos temporários
 *.tmp
+
+cliente.py
+
+gerasenha.py
