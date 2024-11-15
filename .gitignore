@@ -1,0 +1,23 @@
+# Ignorar ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Arquivos de configuração do Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos do IDE/Editor (exemplo para Visual Studio Code e PyCharm)
+.vscode/
+.idea/
+
+# Arquivos de logs
+*.log
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Arquivos temporários
+*.tmp
